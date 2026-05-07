@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+temp_audio.mp3
+temp_input.*
+ffmpeg.exe
+ffmpeg-8.1.1-full_build/
